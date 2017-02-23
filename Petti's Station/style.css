@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#header{
+  background-color: blue;
+  width: 90%;
+  height: 10%;
+  margin: 10 auto;
+}
+
+#content{
+  background-color: orange;
+  width: 60%;
+  height: 80%;
+  margin: 10px auto;
+}
+
+#footer{
+  background-color: pink;
+  width: 90%;
+  height: 10%;
+  margin: 10px auto;
+}
+
+body{
+  height: 1500px;
+}
