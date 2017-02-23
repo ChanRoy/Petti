@@ -1,0 +1,178 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#header{
+   /*display: block;*/
+   width: 390px;
+   height: 128px;
+   margin: 100px 80px auto;
+   padding: 0;
+   overflow:hidden;
+   float:left;
+   background-color: #FFFF54;
+}
+#head_portrait{
+    float: left;
+    width: 90px
+    height: 90px;
+    /*margin: 100px 24px 42px 80px;*/
+    margin: 0;
+    border-radius: 50%;
+}
+#head_right{
+  /*width: 240px
+  height: 130px;*/
+  margin-left: 24px;
+  height: 128px;
+  width: 238px;
+  padding: 0;
+  float: left;
+
+}
+
+#petti_chen{
+    margin: 0;
+    padding: 0;
+    height: 48px;
+    font-family:Arial;
+    font-weight:bold;
+    font-size: 48px;
+    
+}
+    
+#ui_designer{
+    font-size: 11px;
+    font-family:Arial;
+    margin:12px 4px auto;
+}
+
+#icon_location{
+    float:left;
+}
+#icon_location img{
+    width: 13px;
+    height: 16px;
+    margin: 15px 0 auto;
+}
+#address{
+    float:left;
+    font-size: 11px;
+    font-family:Arial;
+    margin: 14px 2px auto;
+}
+
+#details{
+      width: 232px;
+   height: 65px;
+   margin: 130px 80px 0 auto;
+   padding: 0;
+   overflow:hidden;
+   float:left;
+   background-color: #FFFF54;
+}
+#text_personal_link{
+    margin: 0;
+    padding: 0;
+    font-family:Arial;
+    font-weight:normal;
+    font-size: 18px;
+}
+#details_half{
+    margin-top: 12px;
+    padding: 0;
+    width: 232px;
+    height: 28px;
+    float:left;
+    
+}
+#icon_dribbble{
+    float:left;
+}
+#icon_dribbble  img{
+    width: 28px;
+    height: 28px; 
+}
+#icon_facebook{
+    float:left;
+    margin-left: 40px;
+}
+#icon_facebook img{
+    width: 28px;
+    height: 28px; 
+}
+#icon_linkedin{
+    float:left;
+    margin-left: 40px;
+}
+#icon_linkedin img{
+    width: 28px;
+    height: 28px; 
+}
+#icon_sina_weibo{
+    float:left;
+    margin-left: 40px;
+}
+#icon_sina_weibo img{
+    width: 28px;
+    height: 28px;
+}
+
+
+
+
+
+<br/>
+
+/*nav{
+    width: 100%;
+    height: 80px；
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    float:left;
+}
+li{
+list-style:none;
+font-family:Arial,Verdana,Sans-serif;
+float:left;
+}
+a:link,a:visited
+{
+
+display:block;
+width:56px;
+font-weight:normal;
+color:#342A45;
+background-color:#FFFF00;
+text-align:center;
+padding:30px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+text-decoration:underline;
+color:#F41753;
+}*/
+
+  
+
+
+
+
+h2,h1{
+  margin: 0;
+  padding: 0;
+}
+
+#article{
+    width: 60%;
+    overflow:hidden;
+    float:left;
+
+}
+</style>
+</head>
+</html>
