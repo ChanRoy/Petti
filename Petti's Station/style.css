@@ -2,13 +2,78 @@
   margin: 0;
   padding: 0;
 }
+p{
+  color: #342A45;
+}
 
 #header{
-  background-color: blue;
+  background-color: white;
   width: 90%;
-  height: 10%;
-  margin: 10 auto;
+  height: 128px;
+  margin: 100px auto;
+  margin-bottom: 0;
+  justify-content:space-between;
 }
+#header_info{
+  float: left;
+  width: 600px;
+  height: 128px;
+}
+#header_icon{
+  float: left;
+}
+#header_info_right{
+  float: left;
+  height: 128px;
+  width: 400px;
+  margin: 0 24px auto;
+}
+#header_info_name{
+  font-family:Arial;
+  font-weight:bold;
+  font-size: 48pt;
+  /*height: 48px;*/
+}
+#header_info_career{
+  font-size: 18pt;
+  font-family:Arial;
+  /*margin: 18px 0 15px 0;*/
+  /*height: 20px;*/
+}
+#header_info_location{
+  /*height: 25px;*/
+}
+#header_info_location_icon{
+  float: left;
+  margin: auto ;
+}
+#header_info_location_icon img{
+  
+
+  margin-top: 6px;
+}
+#header_info_location_address{
+  font-size: 18pt;
+  font-family:Arial;
+  float: left;
+  margin-left: 12px;
+}
+
+#header_link{
+  float: right;
+  margin: auto;
+  margin-bottom: 1px;
+  width: 215px;
+  height: 66px;
+}
+#header_link_icons{
+  flex: row;
+}
+#header_link_icons div{
+  float: left;
+
+}
+
 
 #content{
   background-color: orange;
@@ -16,6 +81,7 @@
   height: 80%;
   margin: 10px auto;
 }
+
 
 #footer{
   background-color: pink;
@@ -25,5 +91,5 @@
 }
 
 body{
-  height: 1500px;
+  height: 2000px;
 }
