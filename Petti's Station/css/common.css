@@ -119,6 +119,17 @@ body{
   color:#F41753;
 }
 
+#content_page{
+  width: 100%;
+  height: 100px;
+}
+
+#content_page_next, #content_page_more{
+  float: right;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
 #footer{
   width: 600px;
   height: 250px;

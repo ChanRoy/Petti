@@ -1,0 +1,22 @@
+#content_shoot{
+
+	width: 100%;
+	height: 1300px;
+}
+
+.content_shoot_item{
+
+	width: 100%;
+	height: 430px;
+}
+
+.content_shoot_item img{
+
+	float: left;
+}
+
+.content_shoot_title{
+
+	font-size: 14px;
+	margin-top: 10px;
+}
